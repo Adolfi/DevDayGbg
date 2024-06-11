@@ -1,0 +1,20 @@
+{
+  "validEmails": ["dennis.adolfi@knowit.se", "david.g.skoog@knowit.se"],
+  "messages": {
+    "alreadyRegistered": {
+      "sv": "Du är redan anmäld. Välkommen!"
+    },
+    "notKnowitEmployee": {
+      "sv": "Du måste vara anställd på Knowit Experience Göteborg för att kunna medverka."
+    },
+    "emailNotInList": {
+      "sv": "E-postadressen finns inte i vår lista över anmälda. Vänligen kontakta din head of tech."
+    },
+    "fetchError": {
+      "sv": "Ett fel inträffade när data skulle hämtas. Försök igen senare."
+    },
+    "invalidEmail": {
+      "sv": "Ange en giltig e-postadress."
+    }
+  }
+}
