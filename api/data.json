@@ -1,14 +1,41 @@
 {
-  "validEmails": ["dennis.adolfi@knowit.se", "david.g.skoog@knowit.se"],
+  "validEmails": [
+    "dennis.adolfi@knowit.se", 
+    "david.g.skoog@knowit.se", 
+    "Matilda.orner@knowit.se",
+    "Adam.Gardelov@knowit.se",
+    "Erik.White@knowit.se",
+    "Mikael.Kallqvist@knowit.se",
+    "Mikael.Ravantti@knowit.se",
+    "Robert.Tornqvist@knowit.se",
+    "Tobias.abom@knowit.se",
+    "Christian.Johannesson@knowit.se",
+    "Erik.Cajmatz@knowit.se",
+    "Jakob.Gustafsson@knowit.se",
+    "Johan.Olsson-Bachmann@knowit.se",
+    "Joakim.Larsson@knowit.se",
+    "Kajsa.Taipale@knowit.se",
+    "Martina.Milisic@knowit.se",
+    "Philip.Rasmusson@knowit.se",
+    "Rikard.Mattsson@knowit.se",
+    "Jonas.Kihlsten@knowit.se",
+    "Niklas.Hultberg@knowit.se",
+    "Emma.Persson@knowit.se",
+    "Johan.Wigmo@knowit.se",
+    "Marcus.Klaesson@knowit.se",
+    "Imalka.Hemachandra@knowit.se",
+    "Natanael.Augustin@knowit.se",
+    "Lina.Bindelov@knowit.se"
+  ],
   "messages": {
     "alreadyRegistered": {
-      "sv": "Du är redan anmäld. Välkommen!"
+      "sv": "Du är redan anmäld, kom ihåg att även OSA kalenderinbjudan. Välkommen!"
     },
     "notKnowitEmployee": {
       "sv": "Du måste vara anställd på Knowit Experience Göteborg för att kunna medverka."
     },
     "emailNotInList": {
-      "sv": "E-postadressen finns inte i vår lista över anmälda. Vänligen kontakta din head of tech."
+      "sv": "E-postadressen finns inte i vår lista över anmälda. Vänligen kontakta Head of Tech."
     },
     "fetchError": {
       "sv": "Ett fel inträffade när data skulle hämtas. Försök igen senare."
