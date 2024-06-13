@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   checkEmailButton.addEventListener("click", (e) => {
     e.preventDefault();
-    const email = emailInput.value;
+    const email = emailInput.value.toLowerCase();
 
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     if (!emailRegex.test(email)) {
